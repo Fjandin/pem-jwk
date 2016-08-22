@@ -10,6 +10,7 @@
   "license": "MPL 2.0",
   "dependencies": {
     "asn1.js": "4.8.0",
+    "react-native-crypto": "^2.0.1",
     "react-native-randombytes": "^2.1.0"
   },
   "devDependencies": {
