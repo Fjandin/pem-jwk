@@ -1,5 +1,5 @@
 var asn = require('asn1.js')
-var crypto = require('crypto')
+var crypto = require('react-native-crypto')
 var BN = asn.bignum
 
 var zero = new BN(0)
